@@ -2,7 +2,7 @@
 
 Система за търсене на мобилни телефони - проект управление на софтуерни проекти
 
-![image](https://user-images.githubusercontent.com/82166599/120071169-af15c900-c096-11eb-8a07-989631566362.png)
+![image](https://user-images.githubusercontent.com/82166599/120071260-1895d780-c097-11eb-9440-d1ab78f783cf.png)
 
 Технологии използвани при разработката на приложението: C#, MS Access
 
@@ -11,4 +11,4 @@
 - Търсене на мобилни телефони по различни критерии;
 - Визуализиране на конкретен модел.
 
-![image](https://user-images.githubusercontent.com/82166599/120071218-ed12ed00-c096-11eb-8214-cb2eaffd3a95.png)
+![image](https://user-images.githubusercontent.com/82166599/120071235-fe5bf980-c096-11eb-895d-f7d77aa1a342.png)
